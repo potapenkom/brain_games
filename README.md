@@ -1,11 +1,17 @@
+[![Build Status](https://travis-ci.org/potapenkom/brain_games.svg?branch=master)](https://travis-ci.org/potapenkom/brain_games)
+
 Brain Games
+===========
 
 
 Install
+-------
 Via npm:
-
+```bash
 sudo npm i -g potapenkom_brain_games
+```
 Usage
+-----
 Run brain-games to see the list of games or run the specific game
 
 Even number: brain-even
@@ -18,7 +24,7 @@ Prime number: brain-prime
 В рамках проекта необходимо реализовать набор мини-игр, запускаемых из консоли. Эти игры похожи на то, что обычно называют "Brain Games".
 
 Пример игры:
-
+```console
 Welcome to the Brain Game!
 What number is missing in this progression?
 
@@ -35,3 +41,4 @@ Question: 12 15 18 21 .. 27 30 33
 Your answer: 24
 Correct!
 Congratulations, John!
+```
