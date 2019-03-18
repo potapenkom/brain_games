@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/potapenkom/brain_games.svg?branch=master)](https://travis-ci.org/potapenkom/brain_games)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8116c51ad309f3ca9437/maintainability)](https://codeclimate.com/github/potapenkom/brain_games/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8116c51ad309f3ca9437/test_coverage)](https://codeclimate.com/github/potapenkom/brain_games/test_coverage)
 
 Brain Games
 ===========
